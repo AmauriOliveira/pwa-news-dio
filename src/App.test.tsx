@@ -1,3 +1,4 @@
+/* eslint-disable no-use-before-define */
 import React from 'react';
 import { render } from '@testing-library/react';
 import App from './App';
